@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TimeTrek Accelerate Your Knowledge</string>
+    <string name="create_a_new_account">Create a new account\n</string>
+    <string name="email_address">Email Address</string>
+    <string name="welcome_back_sir">Welcome Back Sir\n</string>
+    <string name="continue_with_google">Continue With Google</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="create_an_account">Create an Account\n</string>
+    <string name="password">Password</string>
+    <string name="already_have_an_account">Already Have an Account</string>
+</resources>

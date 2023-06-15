@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1026693775516",
+    "project_id": "timetrek-c1a9d",
+    "storage_bucket": "timetrek-c1a9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026693775516:android:271ceafde8b1813f3a6d59",
+        "android_client_info": {
+          "package_name": "com.example.timetrekaccelerateyourknowledge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026693775516-pio1s1bkttsbrd0l2jlfmdqt28mdj9nr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAECXQJTspy3kKsoy8FHKjIiZyAi6TyElk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026693775516-pio1s1bkttsbrd0l2jlfmdqt28mdj9nr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
